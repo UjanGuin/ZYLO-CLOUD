@@ -120,10 +120,6 @@ ADMIN_PASSWORD = "7149"
 * Must be changed **before any real deployment**
 * Stored server-side only (no client exposure)
 
-<p align="center">
-  <img src="assets/password.png" width="700">
-</p>
-
 ---
 
 ### 📂 Storage Root Directory
@@ -143,8 +139,9 @@ SD_CARD_PATH = Path("/media/ujan/UJAN-AI/").resolve()
 
 ⚠️ Never point this to `/` or sensitive system directories.
 
+
 <p align="center">
-  <img src="assets/root.png" width="700">
+  <img src="assets/password.png" width="700">
 </p>
 
 ---
