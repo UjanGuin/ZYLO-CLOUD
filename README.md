@@ -243,7 +243,10 @@ and paste at any browser to get started.
 
 **Note:** The URL is not static.
 
-
+</p>
+<p align="center">
+  <img src="assets/port.png" width="700">
+</p>
 
 ## ⚠️ Production Notes
 
