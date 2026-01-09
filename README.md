@@ -22,6 +22,9 @@ This project delivers a **modern glassmorphism UI**, advanced file management, r
 <p align="center">
   <img src="assets/ui2.png" width="700">
 </p>
+<p align="center">
+  <img src="assets/ui3.png" width="700">
+</p>
 
 ---
 
