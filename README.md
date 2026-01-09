@@ -229,9 +229,6 @@ ngrok config add-authtoken $YOUR_AUTHTOKEN
 ngrok http 50000
 ```
 (50051 is the port. One can change it as wanted, but also ensure to change it in python code.)
-<p align="center">
-  <img src="assets/port.png" width="600">
-</p>
 
 - After it, one will see output similar to:
 ```bash
