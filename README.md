@@ -1,8 +1,21 @@
 # ☁️ ZYLO-Cloud
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-[![GitHub stars](https://img.shields.io/github/stars/UjanGuin/ZYLO-RiG0R?style=social)](https://github.com/UjanGuin/ZYLO-RiG0R/stargazers)
-![Last commit](https://img.shields.io/github/last-commit/UjanGuin/ZYLO-RiG0R)
+<!-- ===== BADGES ===== -->
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Flask](https://img.shields.io/badge/Framework-Flask-black)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Self Hosted](https://img.shields.io/badge/Self--Hosted-Yes-success)
+![Privacy First](https://img.shields.io/badge/Privacy-First-blueviolet)
+![No Telemetry](https://img.shields.io/badge/Telemetry-None-informational)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
+![UI](https://img.shields.io/badge/UI-Glassmorphism-9cf)
+![Remote Access](https://img.shields.io/badge/Remote-Ngrok--Ready-purple)
+![Repo Size](https://img.shields.io/github/repo-size/UjanGuin/ZYLO-CLOUD)
+[![Stars](https://img.shields.io/github/stars/UjanGuin/ZYLO-CLOUD?style=social)](https://github.com/UjanGuin/ZYLO-CLOUD/stargazers)
+
+<!-- ================== -->
+
 
 
 
