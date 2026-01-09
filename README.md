@@ -22,6 +22,7 @@ This project delivers a **modern glassmorphism UI**, advanced file management, r
 <p align="center">
   <img src="assets/ui2.png" width="700">
 </p>
+
 ---
 
 ## 🚀 Key Highlights
@@ -47,7 +48,6 @@ This project delivers a **modern glassmorphism UI**, advanced file management, r
 * 🛡️ **Path Traversal & Injection Protection**
 * 🌐 **Ngrok-Ready for Secure Remote Access**
 
----
 
 ## 🎯 Why ZYLO-Cloud?
 
@@ -64,7 +64,7 @@ You get:
 
 This is cloud storage **done right** — engineered, not outsourced.
 
----
+
 
 ## 🧩 Project Philosophy
 
@@ -85,7 +85,7 @@ Intended for:
 * Self-hosting enthusiasts
 * Privacy-focused users
 
----
+
 
 ## 🏗️ Architecture Overview
 
@@ -102,13 +102,11 @@ ZYLO-Cloud follows a **clean, secure, server-driven architecture**:
 
 All operations are performed **inside a controlled root directory**.
 
----
 
 ## ⚙️ Configuration (User-Changeable)
 
 All critical parameters are configurable **from the top of `Cloud_Storage.py`**.
 
----
 
 ### 🔐 Admin Password
 
@@ -120,7 +118,6 @@ ADMIN_PASSWORD = "7149"
 * Must be changed **before any real deployment**
 * Stored server-side only (no client exposure)
 
----
 
 ### 📂 Storage Root Directory
 
@@ -144,7 +141,7 @@ SD_CARD_PATH = Path("/media/ujan/UJAN-AI/").resolve()
   <img src="assets/password.png" width="700">
 </p>
 
----
+
 
 ### 📦 Maximum Upload Size
 
@@ -172,7 +169,7 @@ ZYLO-Cloud enforces **real security boundaries**:
 
 All filesystem paths are validated before access.
 
----
+
 
 ## ▶️ Running the Server
 
@@ -200,7 +197,7 @@ python3 Cloud_Storage.py
 http://localhost:50000
 ```
 
----
+
 
 ## 🌐 Remote Access (Ngrok)
 
@@ -242,7 +239,7 @@ and paste at any browser to get started.
 
 **Note:** The URL is not static.
 
----
+
 
 ## ⚠️ Production Notes
 
@@ -252,7 +249,7 @@ and paste at any browser to get started.
 * Do not run as root
 * Restrict filesystem permissions
 
----
+
 
 ## 📜 License
 
