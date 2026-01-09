@@ -141,6 +141,7 @@ SD_CARD_PATH = Path("/media/ujan/UJAN-AI/").resolve()
   <img src="assets/password.png" width="700">
 </p>
 
+---
 
 
 ### 📦 Maximum Upload Size
